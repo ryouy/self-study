@@ -4,6 +4,8 @@
 
 ## 学習項目
 
+- [ ] [ハードウェア](hardware/README.md)
+- [ ] [OS](operating-systems/README.md)
 - [ ] [ネットワーク](networking/README.md)
 - [ ] [データベース](databases/README.md)
 - [ ] [セキュリティ](security/README.md)
