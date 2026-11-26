@@ -97,6 +97,7 @@
         <li><a href="english/speaking-and-writing/README.md">スピーキング・ライティング</a></li>
       </ul>
       <p><strong><a href="learning-log/README.md">学習記録</a></strong></p>
+      <p><strong><a href="misc/README.md">雑記</a></strong></p>
     </td>
   </tr>
 </table>
